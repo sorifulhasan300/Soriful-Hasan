@@ -1,7 +1,7 @@
 ## <br>Hi, I'm Md Soriful Hasan 
 <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"><br>
 
-#### MERN Stack Web Developer
+#### Full Stack Web Developer
 
 ![I am a Full Stack Web Developer.](https://i.imgur.com/CFkSSTE.jpeg)
 
@@ -9,9 +9,9 @@
 
 ## 🚀 About Me
 
-Hi, I’m **Md Soriful Hasan**, a passionate and dedicated **MERN Stack Web Developer** from Bangladesh 🇧🇩.
+Hi, I’m **Md Soriful Hasan**, a passionate and dedicated **Full Stack Web Developer** from Bangladesh 🇧🇩.
 
-I specialize in building modern, responsive, and scalable web applications using **MongoDB, Express.js, React, and Node.js**. Alongside MERN, I also work with **TypeScript** and **PostgreSQL** to build more reliable and production-ready systems.
+I specialize in building modern, responsive, and scalable web applications using **React, Next.js, Express.js, and Node.js**. I also work with **TypeScript** and **PostgreSQL** to build more reliable and production-ready systems.
 
 I enjoy turning real-world problems into clean, efficient solutions. I’m continuously improving my skills in backend architecture, authentication, and performance optimization, and I’m always open to collaborating on meaningful full-stack projects.
 
@@ -22,15 +22,15 @@ I enjoy turning real-world problems into clean, efficient solutions. I’m conti
 **Frontend**
 - HTML5, CSS3, Tailwind CSS  
 - JavaScript (ES6+), **TypeScript**  
-- React.js  
+- React.js, Next.js 
 
 **Backend**
 - Node.js, Express.js  
-- MongoDB, **PostgreSQL**  
-- Firebase Authentication, JWT  
+- **PostgreSQL**, MongoDB,  
+- Firebase Authentication, Custom Authentication JWT  
 
 **Tools & Platforms**
-- Git, GitHub, Postman  
+- Git, GitHub, Postman, Docker  
 - Vercel, Render, Firebase Hosting  
 
 ---
